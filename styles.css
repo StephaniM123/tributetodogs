@@ -1,0 +1,45 @@
+body {background-color: #D5D8DC;
+color: #E74C3C;
+font-size: 20px;}
+
+.img-caption {text-align: center;
+margin: 0 auto;
+}
+
+h3 {padding-left:50%;}
+
+.img-div {text-align: center;
+max-width: 100%;
+display: block;
+}
+
+img {text-align: center;
+margin : 0 auto;
+padding-left: 20%;
+max-width: 100%;
+height: 0 auto;
+display: block;}
+
+
+
+.dashfav, .dottiefav {padding-left:30%;
+}
+
+.box {border: black solid 2px;
+background-color: #F1C40F;
+padding: 10px;
+font-size: 20px;}
+
+h2 {text-decoration: underline;
+text-align: center;}
+
+p {text-align: center;
+border: black solid 2px;
+background-color: #F1C40F;
+padding: 10px; }
+
+.keyfactsdash {border: black solid 2px;
+background-color:#D35400;
+color: black;
+padding-left: 25px;
+padding-bottom: 10px;}
